@@ -1,1 +1,4 @@
-print("Hello, World!")
+fName= "MD ASIF"
+lName= "KHAN"
+fullName= fName + " " + lName
+print(fullName)
